@@ -4,4 +4,6 @@
 
 ## fix bug for pr1
 
-# try to commit in the main branch directly
+### try to commit in the main branch directly
+
+### add a new change in main branch
