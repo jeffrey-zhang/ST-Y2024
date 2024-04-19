@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/jeffrey-zhang/ST-Y2024/compare/v2.1.0...v1.0.1) (2024-04-19)
+
+
+### Miscellaneous Chores
+
+* release 1.0.1 ([ca5b2ab](https://github.com/jeffrey-zhang/ST-Y2024/commit/ca5b2ab542747505d9e64dd51a5b52c57d56d602))
+* release 1.0.1 ([47cee57](https://github.com/jeffrey-zhang/ST-Y2024/commit/47cee57fe9214890d4e99ab49a1437ab1831af91))
+
 ## [2.1.0](https://github.com/jeffrey-zhang/ST-Y2024/compare/v2.0.0...v2.1.0) (2024-04-19)
 
 
