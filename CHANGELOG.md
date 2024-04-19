@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.1.0](https://github.com/jeffrey-zhang/ST-Y2024/compare/v2.0.0...v2.1.0) (2024-04-19)
+
+
+### Features
+
+* another commit on main branch ([0ef41f6](https://github.com/jeffrey-zhang/ST-Y2024/commit/0ef41f65f5c56bb46f4c44c94ec6149c818dd870))
+* another commit on main branch 2.1.1 ([ce90d8f](https://github.com/jeffrey-zhang/ST-Y2024/commit/ce90d8fc78de3e38182bb208589ab64aed9df2c1))
+* commit on main branch ([8657fd3](https://github.com/jeffrey-zhang/ST-Y2024/commit/8657fd3477aaf6ae9dd9b1147408a7bbca18e31f))
+
+
+### Bug Fixes
+
+* add a fix ([a957e93](https://github.com/jeffrey-zhang/ST-Y2024/commit/a957e939a02e7d9c706a2b722d4249ffea9394b4))
+
 ## [2.0.0](https://github.com/jeffrey-zhang/ST-Y2024/compare/v1.0.0...v2.0.0) (2024-04-19)
 
 
