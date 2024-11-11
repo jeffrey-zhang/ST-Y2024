@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.2.0](https://github.com/jeffrey-zhang/ST-Y2024/compare/v1.1.0...v1.2.0) (2024-11-06)
+## [1.2.0](https://github.com/jeffrey-zhang/ST-Y2024/compare/v1.1.0...v1.2.0) (2024-11-11)
 
 
 ### Features
