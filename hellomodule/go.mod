@@ -1,4 +1,4 @@
-module github.com/bigwhite/hellomodule
+module github.com/jeffrey-zhang/y2024-learngo
 
 go 1.22.4
 
