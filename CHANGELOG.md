@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/jeffrey-zhang/ST-Y2024/compare/v1.1.0...v1.2.0) (2024-11-11)
+
+
+### Features
+
+* demo release ([a2a7a0c](https://github.com/jeffrey-zhang/ST-Y2024/commit/a2a7a0c2ce9ede6c550cb88d45df17681644add9))
+
 ## [1.1.0](https://github.com/jeffrey-zhang/ST-Y2024/compare/v1.0.2...v1.1.0) (2024-11-06)
 
 
