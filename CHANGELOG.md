@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/jeffrey-zhang/y2024-learngo/compare/v1.2.0...v1.3.0) (2024-11-11)
+
+
+### Features
+
+* add hellomodel prj ([e799b74](https://github.com/jeffrey-zhang/y2024-learngo/commit/e799b748ffe175794bc6d45e251ace2ef20f4f36))
+
 ## [1.2.0](https://github.com/jeffrey-zhang/ST-Y2024/compare/v1.1.0...v1.2.0) (2024-11-11)
 
 
